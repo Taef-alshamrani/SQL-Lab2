@@ -8,29 +8,29 @@
 Query and Output:
 
 
- <img src="1.png" alt="Image" width="400px" height= "400px">
+ <img src="1.png" width="500" height="500">
 
 ### Q2: Choose all employees who have never received an award (Nested Query)?
 Query and Output:
 
 
- <img src="2.png" alt="Image" width="400px" height= "400px">
+ <img src="2.png" width="500" height="500">
  
 ### Q3: Choose all Developers who make more than all Managers combined (Nested Query)?
 Query and Output:
 
 
-<img src="3.png" alt="Image" width="400px" height= "400px">
+<img src="3.png" width="500" height="500">
 
  **There is no output because the sum of the managers salaries combined is greater than all developer salaries**
 ### Q4: Choose all Developers who make more money than any Manager (Nested Query)?
 Query and Output:
 
 
-<img src="4.png" alt="Image" width="400px" height= "400px">
+<img src="4.png" width="500" height="500">
  
 ### Q5: Choose all employees whose salaries are higher than the average for their position. (Nested Query)?
 Query and Output:
 
 
-<img src="5.png" alt="Image" width="400px" height= "400px">
+<img src="5.png" width="500" height="500">
